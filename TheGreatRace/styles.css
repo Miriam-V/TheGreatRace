@@ -1,0 +1,78 @@
+.grayRect {
+    height: 80px;
+    width: auto;
+    background-color: rgb(140, 126, 145);
+    border: 2px solid rgb(99, 87, 104);
+    padding: 0px;
+    margin: 0px;
+}
+
+.backgroundImg {
+    width: auto;
+    background-color: tomato;
+    align-content: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: skyblue;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(23, 23, 114);
+}
+
+.centerLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.characterSize {
+    height: 75px;
+    width: 75px;
+    position: absolute;
+}
+
+#circle1 {
+  position: absolute;
+  top: 813px;
+  left: 0px;
+}
+
+#circle2 {
+  position: absolute;
+  top: 898px;
+  left: 0px;
+}
+
+#circle3 {
+    position: absolute;
+    top: 982px;
+    left: 0px;
+}
+
+#redLight {
+    position:absolute;
+    width: 100px;
+    height: 125px;
+}
